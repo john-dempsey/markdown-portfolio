@@ -1,0 +1,1 @@
+![John Dempsey on GitHub](https://avatars1.githubusercontent.com/u/43349774?s=460&v=4)
