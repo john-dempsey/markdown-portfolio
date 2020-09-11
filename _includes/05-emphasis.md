@@ -1,0 +1,1 @@
+Programming languages include *Java*, *JavaScript* and *PHP*. Programming skills include **designing code**, **writing code** and **debugging code**.
