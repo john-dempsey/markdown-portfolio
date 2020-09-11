@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Fruit
+  * Apples
+  * Oranges
+  * Bananas
+* Vegetables
+* Beans and pulses
